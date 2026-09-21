@@ -15,42 +15,429 @@ from instagrapi.exceptions import (
 )
 
 # ======================== CONFIG ========================
-SESSION_ID = "26288478032%3AQpAwQ7VarKYISj%3A21%3AAYkiVekJlThJc7kmHCy3k1EQ-l_lUCa_bHO2L8Z3Kg"   # ← yahan apna Instagram sessionid cookie daalo
+SESSION_ID = "26288478032%3ASPXWuxJHwb9Dfi%3A9%3AAYlAl2h0zMHrk2pwsxK-G8n85-Qk2taHwT2AvEbqqQ"   # ← yahan apna Instagram sessionid cookie daalo
 
-MESSAGE_TEMPLATE = """⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
-⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔
-⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
-⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔
-⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
-⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔
-⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
-⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔
-⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
-⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔
-⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
-⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔
-⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
-⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔
-⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
-⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔
-⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
-⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔
-⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
-⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔
-⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
-⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔
-⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
-⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔
-⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
-⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔
-⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
-⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔
-⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
-⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔
-⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
-⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔
-⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
-⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔"""
+MESSAGE_TEMPLATE = """#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Serverdog cud ❤️"""
 
 MAX_RETRIES = 10
 
