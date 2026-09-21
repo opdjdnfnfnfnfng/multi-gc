@@ -15,7 +15,7 @@ from instagrapi.exceptions import (
 )
 
 # ======================== CONFIG ========================
-SESSION_ID = "37756391618%3As8BuDHai9807cG%3A20%3AAYlwVO_ldn8vPQ3G8MGqGJdhBSWxRSduvgwm1vfCcA"   # ← yahan apna Instagram sessionid cookie daalo
+SESSION_ID = "26288478032%3AQpAwQ7VarKYISj%3A21%3AAYkiVekJlThJc7kmHCy3k1EQ-l_lUCa_bHO2L8Z3Kg"   # ← yahan apna Instagram sessionid cookie daalo
 
 MESSAGE_TEMPLATE = """⛩ ✦KING-RISHI-RAYSHIT-TRB-KRISHU-SERVER DOG✦ 
 ⛩ 𝗖 𝗛 𝗨 𝗗 𖣔・✦・⭑・✦・𖣔𖣔・✦・⭑・✦・𖣔
